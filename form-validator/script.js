@@ -21,7 +21,7 @@ function checkRequired(inputs) {
         } else {
             showSuccess(input);
         }
-    })
+    }) 
 }
 
 function checkLength(input, min, max) {
